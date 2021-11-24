@@ -1,7 +1,7 @@
 # NeuralMPS
 
 ## Download test data
-Please download test data via: https://drive.google.com/drive/folders/1zrhPpa5i86ZrBezg15fcXwzdT48s4rHg?usp=sharing first.
+Please download test data via: https://drive.google.com/drive/folders/1fm0IUYvPOe1GzjG_bxVq-qGSuQB9d_bq?usp=sharing first.
 Download the folder "test_data" to the main folder "NeuralMPS", unzip it and use the name "test_data".
 
 ## Dependencies
@@ -23,3 +23,8 @@ This file will use our pretrained model to test the Sphere dataset. Results will
 ## Test your own data
 
 Please follow the data format of "test_data". Or you can refer to "datasets/my_npy_dataloader.py" to write your own dataloader.
+
+## Declaration
+
+Code and data of CVPR submission 3927, used for CVPR 2022 review only.
+All rights reserved by the authors of the CVPR'22 submission 3927.
