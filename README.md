@@ -1,4 +1,5 @@
 # NeuralMPS
+This is the official implementation of the IJCAI'23 paper "Non-Lambertian Multispectral Photometric Stereo via Spectral Reflectance Decomposition"
 
 ## Download test data
 Please download test data via: https://drive.google.com/drive/folders/1fm0IUYvPOe1GzjG_bxVq-qGSuQB9d_bq?usp=sharing first.
@@ -23,8 +24,3 @@ This file will use our pretrained model to test the Sphere dataset. Results will
 ## Test your own data
 
 Please follow the data format of "test_data". Or you can refer to "datasets/my_npy_dataloader.py" to write your own dataloader.
-
-## Declaration
-
-Code and data of CVPR submission 3927, used for CVPR 2022 review only.
-All rights reserved by the authors of the CVPR'22 submission 3927.
